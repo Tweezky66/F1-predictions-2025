@@ -223,4 +223,5 @@ plt.legend()
 plt.grid(True, linestyle='--', alpha=0.5)
 
 plt.tight_layout()
+plt.savefig("results/predicted_vs_actual_r25.png")
 plt.show()
