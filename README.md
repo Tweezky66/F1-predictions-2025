@@ -42,7 +42,7 @@ with mean absolute error in finishing positions on the held-out final round.
 
 ## Results
 
-![Actual vs predicted finishing position](results/predicted_vs_actual_r24.png)
+![Actual vs predicted finishing position](results/predicted_vs_actual_r25.png)
 
 
 
